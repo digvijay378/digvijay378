@@ -53,6 +53,9 @@ class SecurityEngineer:
 - Building **AI-agent–driven Palo Alto policy optimization** to detect shadowed, redundant, and overly permissive rules.
 - Designing **Zero Trust & SASE** architectures across AWS, Azure, and on-prem for financial enterprises.
 - Authored two AI security books: **The Gen AI Security Playbook** & **Architecting Zero Trust with AI**.
+- Shipping tools in public: actively developing and maintaining open source projects that capture real patterns from enterprise security work (see Featured Projects below).
+
+I treat building and documenting these projects as part of my regular practice — not side projects.
 
 ---
 
@@ -65,6 +68,8 @@ class SecurityEngineer:
 | **Security AI Notes** | Daily notes & experiments on AI-driven SecOps, RAG for investigations, and practical Zero Trust patterns. | Markdown | [github.com/digvijay378/security-ai-notes](https://github.com/digvijay378/security-ai-notes) |
 
 These are active public projects that reflect real patterns from production work at scale.
+
+**Building in public**: I regularly add notes, improvements, and new capabilities. The commit history on these repos is real iterative development, not generated noise.
 
 ---
 
