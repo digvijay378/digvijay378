@@ -56,6 +56,18 @@ class SecurityEngineer:
 
 ---
 
+### Featured Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **AI Firewall Policy Optimizer** | Detects shadowed, redundant, and high-risk rules in NGFW policies. Generates prioritized cleanup recommendations. | Python, Pandas, Rich | [github.com/digvijay378/ai-firewall-optimizer](https://github.com/digvijay378/ai-firewall-optimizer) |
+| **Zero Trust Validator** | Lightweight toolkit to validate micro-segmentation and identity-aware boundaries against real rulebases. | Python | [github.com/digvijay378/zero-trust-validator](https://github.com/digvijay378/zero-trust-validator) |
+| **Security AI Notes** | Daily notes & experiments on AI-driven SecOps, RAG for investigations, and practical Zero Trust patterns. | Markdown | [github.com/digvijay378/security-ai-notes](https://github.com/digvijay378/security-ai-notes) |
+
+These are active public projects that reflect real patterns from production work at scale.
+
+---
+
 ### Tech & Tooling
 
 **Languages & AI/ML**
